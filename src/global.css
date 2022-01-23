@@ -1,0 +1,13 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.userlist{
+  padding: 5px 10px, 5px,10px;
+  border: 1px  wheat;
+  margin: 20px;
+}
